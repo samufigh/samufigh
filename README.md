@@ -1,7 +1,7 @@
 ### Hi there 👋
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=90&section=header"/>
 
-## <p align="center">Hi, I'm Naomi, but you can call me Setsuka.</p>
+## <p align="center">Hi, I'm Samuel, but you can call me Samuca.</p>
 
 <div align="center">
 <img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=setsukanaomi&show_icons=true&theme=transparent&hide_border=true&title_color=b32e74&text_color=ffffff&icon_color=b32e74">
@@ -29,8 +29,6 @@
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
   </div>
- 
- #### <p align="center">If I'm not coding, probably I'm gaming, so add me on Steam.<br>I'm into Fighting Games, currently obsessed with Divinity: Original Sin 2.</p>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b32e74&height=90&section=footer"/>
