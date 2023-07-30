@@ -27,6 +27,9 @@
   <div align="center">
    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/postgres-404D59?style=for-the-badge">
+
+    
   </div>
  
 
