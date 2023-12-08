@@ -93,12 +93,12 @@
 
   **<p align="center">Como entrar em contato comigo</p>**
 
-<p align="center">
-  <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=samufigh@gmail.com" /></a>
 
-  <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-silva-571480277/" /></a>
- 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-silva-571480277/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samufigh21@gmail.com)
+
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=90&section=footer"/>
