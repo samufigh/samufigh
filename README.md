@@ -90,6 +90,15 @@
          <img src="https://img.shields.io/badge/-render-blue?style=for-the-badge&color=171833" /> 
       </a>
   </div>
+
+  **<p align="center">Como entrar em contato comigo</p>**
+
+<p align="center">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=milenamfm@gmail.com" /></a>
+
+  <a href="#" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-medeiros-marques/" /></a>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=90&section=footer"/>
