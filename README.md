@@ -95,10 +95,10 @@
 
 <p align="center">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=milenamfm@gmail.com" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=samufigh@gmail.com" /></a>
 
   <a href="#" alt="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milena-medeiros-marques/" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-silva-571480277/" /></a>
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=90&section=footer"/>
