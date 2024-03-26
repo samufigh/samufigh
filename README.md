@@ -1,8 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=90&section=header"/>
 
 ## <p align="center">Olá, me chamo Samuel!</p>
-<p>👋Sou um desenvolvedor Full Stack com uma curiosidade genuína pelo mundo da tecnologia. Desde minha infância, sempre estive intrigado com o funcionamento dos computadores e sua capacidade de transformar ideias em realidade.
-</p>
 <div align="center">
 <img   width="49%"  height="195px" src="https://github-readme-stats.vercel.app/api?username=samufigh&show_icons=true&theme=transparent&hide_border=true&title_color=87CEEB&text_color=ffffff&icon_color=87CEEB">
 <img   width="41%"  height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=setsukanaomi&layout=compact&theme=transparent&hide_border=true&title_color=87CEEB&text_color=ffffff">
